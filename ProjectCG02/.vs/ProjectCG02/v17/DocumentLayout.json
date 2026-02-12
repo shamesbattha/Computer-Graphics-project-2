@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TOPLAPTOP\\source\\repos\\ProjectCG02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68CBB316-79BD-4965-B137-335BAFE3F718}|ProjectCG02\\ProjectCG02.vcxproj|C:\\Users\\TOPLAPTOP\\source\\repos\\ProjectCG02\\ProjectCG02\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{68CBB316-79BD-4965-B137-335BAFE3F718}|ProjectCG02\\ProjectCG02.vcxproj|solutionrelative:ProjectCG02\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CBB316-79BD-4965-B137-335BAFE3F718}|ProjectCG02\\ProjectCG02.vcxproj|C:\\Users\\TOPLAPTOP\\source\\repos\\ProjectCG02\\ProjectCG02\\ProjectCG02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{68CBB316-79BD-4965-B137-335BAFE3F718}|ProjectCG02\\ProjectCG02.vcxproj|solutionrelative:ProjectCG02\\ProjectCG02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\TOPLAPTOP\\source\\repos\\ProjectCG02\\ProjectCG02\\main.cpp",
+              "RelativeDocumentMoniker": "ProjectCG02\\main.cpp",
+              "ToolTip": "C:\\Users\\TOPLAPTOP\\source\\repos\\ProjectCG02\\ProjectCG02\\main.cpp",
+              "RelativeToolTip": "ProjectCG02\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-12T14:36:04.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectCG02.cpp",
+              "DocumentMoniker": "C:\\Users\\TOPLAPTOP\\source\\repos\\ProjectCG02\\ProjectCG02\\ProjectCG02.cpp",
+              "RelativeDocumentMoniker": "ProjectCG02\\ProjectCG02.cpp",
+              "ToolTip": "C:\\Users\\TOPLAPTOP\\source\\repos\\ProjectCG02\\ProjectCG02\\ProjectCG02.cpp",
+              "RelativeToolTip": "ProjectCG02\\ProjectCG02.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-12T14:35:39.948Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
