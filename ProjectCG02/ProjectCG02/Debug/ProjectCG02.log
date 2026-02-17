@@ -1,3 +1,0 @@
-﻿  main.cpp
-C:\Users\TOPLAPTOP\source\repos\ProjectCG02\ProjectCG02\main.cpp(146,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-  ProjectCG02.vcxproj -> C:\Users\TOPLAPTOP\source\repos\ProjectCG02\Debug\ProjectCG02.exe
